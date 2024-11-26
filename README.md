@@ -3,4 +3,4 @@ A step-by-step guide for setting up an SIEM using the Elastic Web Portal and Sys
 
 Below I have pasted the link for the entire blogpost.
 
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@hamsnoesnothin/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@hamsnoesnothin/0" alt="Recent Article 0"> 
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@hamsnoesnothin/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@hamsnoesnothin/1" alt="Recent Article 1"> 
